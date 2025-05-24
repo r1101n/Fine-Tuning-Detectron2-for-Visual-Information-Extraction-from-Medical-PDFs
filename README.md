@@ -1,0 +1,1 @@
+# Fine-Tuning-Detectron2-for-Visual-Information-Extraction-from-Medical-PDFs
